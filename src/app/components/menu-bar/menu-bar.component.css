@@ -1,0 +1,15 @@
+.menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.menu-bar > ul > li{
+    list-style: none;
+    margin-left: 15px;
+    padding: 10px;
+    box-shadow: 5px 4px 4px rgb(189, 188, 188);
+}
+.menu-bar > ul > li > a{
+    text-decoration: none;
+}
