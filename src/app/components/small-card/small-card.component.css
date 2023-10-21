@@ -21,3 +21,7 @@
 .separator{
     margin-bottom: 10px;
 }
+
+.description_small-card > h1 > a{
+    text-decoration: none;
+}
